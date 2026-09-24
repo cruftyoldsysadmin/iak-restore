@@ -1,0 +1,738 @@
+[
+  {
+    "file": "304leti351im",
+    "title": "&#304;leti&#351;im - &#304;stanbul Avrupa Korosu",
+    "words": 15,
+    "media": [
+      "1384207143.png"
+    ]
+  },
+  {
+    "file": "a",
+    "title": "A",
+    "words": 185,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "b",
+    "title": "B",
+    "words": 135,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "c",
+    "title": "C",
+    "words": 198,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "christmas-carols",
+    "title": "Christmas Carols",
+    "words": 649,
+    "media": [
+      "1420322603.png",
+      "a_christmas_round.mid",
+      "a_christmas_round.nwc",
+      "adeste_fideles_alto.mid",
+      "adeste_fideles_bas.mid",
+      "adeste_fideles_sop.mid",
+      "adeste_fideles_tenor.mid",
+      "deck_the_hall_alto.mid",
+      "deck_the_hall_bass.mid",
+      "deck_the_hall_soprano.mid",
+      "deck_the_hall_tenor.mid",
+      "es_ist_ein_ros_alto.mid",
+      "es_ist_ein_ros_bass.mid",
+      "es_ist_ein_ros_sop.mid",
+      "es_ist_ein_ros_tenor.mid",
+      "il_est_ne_le_alto.mid",
+      "il_est_ne_le_bass.mid",
+      "il_est_ne_le_sop.mid",
+      "il_est_ne_le_tenor.mid",
+      "in_the_bleak_alto.mid",
+      "in_the_bleak_bass.mid",
+      "in_the_bleak_sop.mid",
+      "in_the_bleak_tenor.mid",
+      "jingle_bells_alto.mid",
+      "jingle_bells_bass.mid",
+      "jingle_bells_sop.mid",
+      "jingle_bells_tenor.mid",
+      "joy_to_alto.mid",
+      "joy_to_bass.mid",
+      "joy_to_soprano.mid",
+      "joy_to_tenor.mid",
+      "les_anges_alto.mid",
+      "les_anges_bass.mid",
+      "les_anges_soprano.mid",
+      "les_anges_tenor.mid",
+      "noel_nouvelet_alto.mid",
+      "noel_nouvelet_bass.mid",
+      "noel_nouvelet_sop.mid",
+      "noel_nouvelet_tenor.mid",
+      "o_tannenbaum_alto.mid",
+      "o_tannenbaum_bass.mid",
+      "o_tannenbaum_sop.mid",
+      "o_tannenbaum_tenor.mid",
+      "stille_nacht_alto.mid",
+      "stille_nacht_bass.mid",
+      "stille_nacht_soprano.mid",
+      "stille_nacht_tenor.mid",
+      "the_angel_gabr_alto.mid",
+      "the_angel_gabr_bass.mid",
+      "the_angel_gabr_sop.mid",
+      "the_angel_gabr_tenor.mid",
+      "the_first_noel_alto.mid",
+      "the_first_noel_bass.mid",
+      "the_first_noel_sop.mid",
+      "the_first_noel_tenor.mid",
+      "veni_veni_alto.mid",
+      "veni_veni_bass.mid",
+      "veni_veni_sop.mid",
+      "veni_veni_tenor.mid",
+      "we_wish_you_alt.mid",
+      "we_wish_you_bas.mid",
+      "we_wish_you_sop.mid",
+      "we_wish_you_ten.mid"
+    ]
+  },
+  {
+    "file": "d",
+    "title": "D",
+    "words": 101,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "daphnis-et-chloe",
+    "title": "Daphnis et Chloe",
+    "words": 561,
+    "media": [
+      "1420322603.png",
+      "daphnis_160-164_all_parts.mp3",
+      "daphnis_160-164_alto.mp3",
+      "daphnis_160-164_bass.mp3",
+      "daphnis_160-164_soprano.mp3",
+      "daphnis_160-164_tenor.mp3",
+      "daphnis_167-170_all_parts.mp3",
+      "daphnis_167-170_alto.mp3",
+      "daphnis_167-170_bass.mp3",
+      "daphnis_167-170_soprano.mp3",
+      "daphnis_167-170_tenor.mp3",
+      "daphnis_212-end_all_parts.mp3",
+      "daphnis_212-end_alto.mp3",
+      "daphnis_212-end_bass.mp3",
+      "daphnis_212-end_soprano.mp3",
+      "daphnis_212-end_tenor.mp3",
+      "daphnis_ia_all_parts.mp3",
+      "daphnis_ia_alto.mp3",
+      "daphnis_ia_bass.mp3",
+      "daphnis_ia_soprano.mp3",
+      "daphnis_ia_tenor.mp3",
+      "daphnis_ib_all_parts.mp3",
+      "daphnis_ib_all_parts_half_speed.mp3",
+      "daphnis_ib_bass.mp3",
+      "daphnis_ib_bass_half_speed.mp3",
+      "daphnis_ib_tenor.mp3",
+      "daphnis_ib_tenor_half_speed.mp3",
+      "daphnis_suit_1_tenor_2.midi",
+      "daphnis_suit_2_tenor_2.midi",
+      "daphnis_suite_1_-_tenor1.midi",
+      "ravel_daphnis.pdf",
+      "ravelsuit1_alto1.midi",
+      "ravelsuit1_alto2.midi",
+      "ravelsuit1_bas1.midi",
+      "ravelsuit1_bas2.midi",
+      "ravelsuit1_bas2.nwc",
+      "ravelsuit1_sop1.midi",
+      "ravelsuit1_sop1.nwc",
+      "ravelsuit1_sop2.midi",
+      "ravelsuit1_sop2.nwc",
+      "ravelsuit2_alto1.midi",
+      "ravelsuit2_alto1.nwc",
+      "ravelsuit2_alto2.midi",
+      "ravelsuit2_bas1.midi",
+      "ravelsuit2_bas1.nwc",
+      "ravelsuit2_bas2.midi",
+      "ravelsuit2_bas2.nwc",
+      "ravelsuit2_sop1.midi"
+    ]
+  },
+  {
+    "file": "dvorak---stabat-mater",
+    "title": "Dvorak - Stabat Mater",
+    "words": 103,
+    "media": [
+      "1420322603.png",
+      "dvorak_sm_1.pdf",
+      "dvorak_sm_10_1.pdf",
+      "dvorak_sm_10_2.pdf",
+      "dvorak_sm_3.pdf",
+      "dvorak_sm_4.pdf",
+      "dvorak_sm_5.pdf",
+      "dvorak_sm_6.pdf",
+      "dvorak_sm_7.pdf",
+      "imslp21307-pmlp12577-dvorak-op058vssch_score_1.pdf"
+    ]
+  },
+  {
+    "file": "e",
+    "title": "E",
+    "words": 45,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "etkinlikler",
+    "title": "Etkinlikler - &#304;stanbul Avrupa Korosu",
+    "words": 123,
+    "media": [
+      "1384207143.png",
+      "3301508.jpeg",
+      "4893788.jpg",
+      "5891786.jpg",
+      "6641762.jpg",
+      "689190.jpg",
+      "8606914.jpg"
+    ]
+  },
+  {
+    "file": "etkinlikler1",
+    "title": "Etkinlikler",
+    "words": 780,
+    "media": [
+      "1017678_1_orig.jpg",
+      "1057370_1_orig.jpg",
+      "1420322603.png",
+      "1444683096_1.png",
+      "1691754_1_orig.jpg",
+      "1751062_1_orig.jpg",
+      "3343474_1_orig.jpg",
+      "3701471_1.jpg",
+      "5255215_1_orig.jpg",
+      "547854_1_orig.jpg",
+      "5529585_1_orig.jpg",
+      "5891786_1.jpg",
+      "a846981b-f63d-4cec-93bf-e54790d2227c_2.jpeg",
+      "fullsizerender-1-orig_2.jpg",
+      "iec-jan-15-2020-fulya_2.jpg",
+      "iec-jan-16-2020-moda_2.jpg",
+      "konser-may-13_4.jpg",
+      "mozart-yeldegirmeni-afis_3.jpg",
+      "rossini-afis_4.jpg",
+      "unnamed_3.jpg",
+      "zelenka-afi-k-k_3.jpg"
+    ]
+  },
+  {
+    "file": "events",
+    "title": "Events",
+    "words": 728,
+    "media": [
+      "1420322603.png",
+      "1444742239.png",
+      "2678723_orig.jpg",
+      "3441355_orig.jpg",
+      "430578.jpg",
+      "4879446_orig.jpg",
+      "903690_orig.jpg",
+      "_3343474_orig.jpg",
+      "_5255215_orig.jpg",
+      "_547854_orig.jpg",
+      "_5891786.jpg",
+      "fullsizerender_1_orig.jpg",
+      "konser-may-13_1.jpg",
+      "mozart-yeldegirmeni-afis_1_orig.jpg",
+      "rossini-afis_1_orig.jpg",
+      "unnamed_1_orig.jpg",
+      "zelenka-afi-k-k_1_orig.jpg"
+    ]
+  },
+  {
+    "file": "f",
+    "title": "F",
+    "words": 112,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "faure",
+    "title": "FAURE",
+    "words": 40,
+    "media": [
+      "1420322603.png",
+      "faure_cantique_de_jean_racine.pdf",
+      "faure_requiem.pdf"
+    ]
+  },
+  {
+    "file": "foto--video",
+    "title": "Foto &amp; Video",
+    "words": 10,
+    "media": [
+      "1420322603.png",
+      "1920782.jpg",
+      "1920782_orig.jpg",
+      "2066799.jpg",
+      "2066799_orig.jpg",
+      "364928.jpg",
+      "364928_orig.jpg",
+      "4230782.jpg",
+      "4230782_orig.jpg",
+      "4764462.jpg",
+      "4764462_orig.jpg",
+      "5785341.jpg",
+      "5785341_orig.jpg",
+      "5846160.jpg",
+      "5846160_orig.jpg",
+      "5996197.jpg",
+      "5996197_orig.jpg",
+      "6204951.jpg",
+      "6204951_orig.jpg",
+      "6234325.jpg",
+      "6234325_orig.jpg",
+      "7236182.jpg",
+      "7236182_orig.jpg",
+      "746605.jpg",
+      "746605_orig.jpg",
+      "8988430.jpg",
+      "8988430_orig.jpg",
+      "9235383.jpg",
+      "9235383_orig.jpg",
+      "9775512.jpg",
+      "9775512_orig.jpg"
+    ]
+  },
+  {
+    "file": "foto287raflar",
+    "title": "Foto&#287;raflar - &#304;stanbul Avrupa Korosu",
+    "words": 3,
+    "media": [
+      "1384207143.png",
+      "1920782.jpg",
+      "1920782_orig.jpg",
+      "2066799.jpg",
+      "2066799_orig.jpg",
+      "364928.jpg",
+      "364928_orig.jpg",
+      "4764462.jpg",
+      "4764462_orig.jpg",
+      "5846160.jpg",
+      "5846160_orig.jpg",
+      "9775512.jpg",
+      "9775512_orig.jpg"
+    ]
+  },
+  {
+    "file": "g",
+    "title": "G",
+    "words": 70,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "galeri",
+    "title": "Galeri",
+    "words": 10,
+    "media": [
+      "1420322603.png",
+      "1920782.jpg",
+      "1920782_orig.jpg",
+      "2066799.jpg",
+      "2066799_orig.jpg",
+      "364928.jpg",
+      "364928_orig.jpg",
+      "4230782.jpg",
+      "4230782_orig.jpg",
+      "4764462.jpg",
+      "4764462_orig.jpg",
+      "5785341.jpg",
+      "5785341_orig.jpg",
+      "5846160.jpg",
+      "5846160_orig.jpg",
+      "5996197.jpg",
+      "5996197_orig.jpg",
+      "6204951.jpg",
+      "6204951_orig.jpg",
+      "6234325.jpg",
+      "6234325_orig.jpg",
+      "7236182.jpg",
+      "7236182_orig.jpg",
+      "746605.jpg",
+      "746605_orig.jpg",
+      "8988430.jpg",
+      "8988430_orig.jpg",
+      "9235383.jpg",
+      "9235383_orig.jpg",
+      "9775512.jpg",
+      "9775512_orig.jpg"
+    ]
+  },
+  {
+    "file": "gallery",
+    "title": "Gallery",
+    "words": 10,
+    "media": [
+      "1420322603.png",
+      "__4230782.jpg",
+      "__4230782_orig.jpg",
+      "__5785341.jpg",
+      "__5785341_orig.jpg",
+      "__5996197.jpg",
+      "__5996197_orig.jpg",
+      "__6204951.jpg",
+      "__6204951_orig.jpg",
+      "__6234325.jpg",
+      "__6234325_orig.jpg",
+      "__7236182.jpg",
+      "__7236182_orig.jpg",
+      "__746605.jpg",
+      "__746605_orig.jpg",
+      "__8988430.jpg",
+      "__8988430_orig.jpg",
+      "__9235383.jpg",
+      "__9235383_orig.jpg",
+      "___1920782.jpg",
+      "___1920782_orig.jpg",
+      "___2066799.jpg",
+      "___2066799_orig.jpg",
+      "___364928.jpg",
+      "___364928_orig.jpg",
+      "___4764462.jpg",
+      "___4764462_orig.jpg",
+      "___5846160.jpg",
+      "___5846160_orig.jpg",
+      "___9775512.jpg",
+      "___9775512_orig.jpg"
+    ]
+  },
+  {
+    "file": "h",
+    "title": "H",
+    "words": 45,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "hakk305nda",
+    "title": "Hakk&#305;nda - &#304;stanbul Avrupa Korosu",
+    "words": 377,
+    "media": [
+      "1384207143.png"
+    ]
+  },
+  {
+    "file": "hakkinda",
+    "title": "Hakkinda",
+    "words": 2370,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "handel",
+    "title": "Haendel",
+    "words": 418,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "index",
+    "title": "Istanbul Avrupa Korosu - Ana Sayfa",
+    "words": 44,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "index_1",
+    "title": "&#304;stanbul Avrupa Korosu - Ana Sayfa",
+    "words": 44,
+    "media": [
+      "1384207143.png"
+    ]
+  },
+  {
+    "file": "index_home",
+    "title": "&#304;stanbul Avrupa Korosu - Ana Sayfa",
+    "words": 44,
+    "media": [
+      "1384207143.png"
+    ]
+  },
+  {
+    "file": "jenkins-motets",
+    "title": "Jenkins Motets",
+    "words": 13,
+    "media": [
+      "1420322603.png",
+      "motets.pdf"
+    ]
+  },
+  {
+    "file": "k",
+    "title": "K",
+    "words": 31,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "konserler",
+    "title": "Konserler - &#304;stanbul Avrupa Korosu",
+    "words": 3,
+    "media": [
+      "1384207143.png",
+      "4123845_orig.jpg"
+    ]
+  },
+  {
+    "file": "l",
+    "title": "L",
+    "words": 89,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "m",
+    "title": "M",
+    "words": 55,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "mahler---symphony-2",
+    "title": "Mahler - Symphony 2",
+    "words": 22,
+    "media": [
+      "1420322603.png",
+      "mahler2v.pdf"
+    ]
+  },
+  {
+    "file": "materyaller",
+    "title": "Materyaller",
+    "words": 529,
+    "media": [
+      "01_stabat_mater__cantus_lacrimosus.mp3",
+      "1420322603.png",
+      "digital_booklet_-_jenkins__stabat_mater.pdf",
+      "karl_jenkins-latince_sozlerin_turkce_okunusu_3.doc",
+      "karl_jenkins_-_stabat_mater_full_score.pdf",
+      "karl_jenkins_cantus_lacrimosus_koro_partisi.doc",
+      "kj_stabat_alt_cover.zip",
+      "kj_stabat_alt_no_1_cantus.zip",
+      "kj_stabat_alt_no_5_sancta.zip",
+      "kj_stabat_alto_no_10_ave_verum_.zip",
+      "kj_stabat_alto_no_11_fac_ut_portem.zip",
+      "kj_stabat_alto_no_12_paradisi.zip",
+      "kj_stabat_alto_no_3_vidit_jesum.zip",
+      "kj_stabat_alto_no_6_now_my_life.zip",
+      "kj_stabat_alto_no_7_and_the_mother.zip",
+      "kj_stabat_alto_no_8_virgo.zip",
+      "kj_stabat_alto_no_9_are_you_lost.zip",
+      "kj_stabat_bas_cover.zip",
+      "kj_stabat_bas_no_1_cantus.zip",
+      "kj_stabat_bas_no_5_sancta.zip",
+      "kj_stabat_bass_no_10_ave_verum.zip",
+      "kj_stabat_bass_no_11_fac_ut_portem.zip",
+      "kj_stabat_bass_no_12_paradisi.zip",
+      "kj_stabat_bass_no_3_vidit_jesum.zip",
+      "kj_stabat_bass_no_6_now_my_life.zip",
+      "kj_stabat_bass_no_7_and_the_mother.zip",
+      "kj_stabat_bass_no_8_virgo.zip",
+      "kj_stabat_bass_no_9_are_you_lost.zip",
+      "kj_stabat_sop_cover.zip",
+      "kj_stabat_sop_no_10_ave_verum.zip",
+      "kj_stabat_sop_no_11_fac_ut_portem.zip",
+      "kj_stabat_sop_no_12_paradisi.zip",
+      "kj_stabat_sop_no_1_cantus.zip",
+      "kj_stabat_sop_no_3_vidit_jesum.zip",
+      "kj_stabat_sop_no_5_sancta.zip",
+      "kj_stabat_sop_no_6_now_my_life.zip",
+      "kj_stabat_sop_no_7_and_the_mother.zip",
+      "kj_stabat_sop_no_8_virgo.zip",
+      "kj_stabat_sop_no_9_are_you_lost.zip",
+      "kj_stabat_ten_cover.zip",
+      "kj_stabat_ten_no_1_cantus.zip",
+      "kj_stabat_ten_no_5_sancta.zip",
+      "kj_stabat_tenor_no_10_ave_verum.zip",
+      "kj_stabat_tenor_no_11_fac_ut_portem.zip",
+      "kj_stabat_tenor_no_12_paradisi.zip",
+      "kj_stabat_tenor_no_3_vidit_jesum.zip",
+      "kj_stabat_tenor_no_6_now_my_life.zip",
+      "kj_stabat_tenor_no_7_and_the_mother.zip",
+      "kj_stabat_tenor_no_8_virgo.zip",
+      "kj_stabat_tenor_no_9_are_you_lost.zip"
+    ]
+  },
+  {
+    "file": "mozart-requiem",
+    "title": "Mozart Requiem",
+    "words": 278,
+    "media": [
+      "1420322603.png",
+      "amen_fugue_01_a.mid.mp3",
+      "amen_fugue_01_a.nwc",
+      "amen_fugue_01_b.mid.mp3",
+      "amen_fugue_01_b.nwc",
+      "amen_fugue_01_s.mid.mp3",
+      "amen_fugue_01_s.nwc",
+      "amen_fugue_01_t..mid.mp3",
+      "amen_fugue_01_t.nwc",
+      "hosanna_02_a.mid.mp3",
+      "hosanna_02_b.mid.mp3",
+      "hosanna_02_s.mid.mp3",
+      "hosanna_02_t.mid.mp3",
+      "mozart_-_requiem_-_full_vocal_score.pdf",
+      "osanna_alto.nwc",
+      "osanna_alto_slow.nwc",
+      "osanna_bass.nwc",
+      "osanna_bass_slow.nwc",
+      "osanna_soprano.nwc",
+      "osanna_soprano_slow.nwc",
+      "osanna_tenor.nwc",
+      "osanna_tenor_slow.nwc"
+    ]
+  },
+  {
+    "file": "new-page",
+    "title": "New Page",
+    "words": 3,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "o",
+    "title": "O",
+    "words": 11,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "p-q",
+    "title": "P-Q",
+    "words": 19,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "prova-plan305--rehearsal-plan",
+    "title": "Prova Plan&#305; / Rehearsal Plan",
+    "words": 112,
+    "media": [
+      "1420322603.png",
+      "iec_program_2019-2020_001.xlsx"
+    ]
+  },
+  {
+    "file": "r",
+    "title": "R",
+    "words": 12,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "rossini",
+    "title": "Rossini",
+    "words": 8,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "s",
+    "title": "S",
+    "words": 20,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "sponsor",
+    "title": "Sponsor - &#304;stanbul Avrupa Korosu",
+    "words": 5,
+    "media": [
+      "1384207143.png",
+      "1397914789.png",
+      "5142939.jpg",
+      "6014870.jpg",
+      "8819256.jpg"
+    ]
+  },
+  {
+    "file": "t",
+    "title": "T",
+    "words": 12,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "u-v",
+    "title": "U-V",
+    "words": 11,
+    "media": [
+      "1420322603.png"
+    ]
+  },
+  {
+    "file": "uumlye-ba351vuru",
+    "title": "&Uuml;ye Ba&#351;vuru - &#304;stanbul Avrupa Korosu",
+    "words": 57,
+    "media": [
+      "1384207143.png"
+    ]
+  },
+  {
+    "file": "uumlye-giri351i",
+    "title": "This area is password protected [401]",
+    "words": 10,
+    "media": []
+  },
+  {
+    "file": "zelenka-bach-byrd",
+    "title": "Zelenka Bach Byrd",
+    "words": 224,
+    "media": [
+      "1420322603.png",
+      "bach_jesu_beleibet_soprano.mp3",
+      "bach_jesu_bleibet_alto.mp3",
+      "bach_jesu_bleibet_bass.mp3",
+      "bach_jesu_bleibet_tenor.mp3",
+      "gloria_alto.mp3",
+      "gloria_bass.mp3",
+      "gloria_soprano.mp3",
+      "gloria_tenor.mp3",
+      "zelenka_missa_dei_filii-1.1-kyrie_alto.mp3",
+      "zelenka_missa_dei_filii-1.1-kyrie_bas.mp3",
+      "zelenka_missa_dei_filii-1.1-kyrie_soprano.mp3",
+      "zelenka_missa_dei_filii-1.1-kyrie_tenor.mp3",
+      "zelenka_missa_dei_filii-2.3-qui-sedes_choral-score_-alto.mp3",
+      "zelenka_missa_dei_filii-2.3-qui-sedes_choral-score_-bass.mp3",
+      "zelenka_missa_dei_filii-2.3-qui-sedes_choral-score_-soprano.mp3",
+      "zelenka_missa_dei_filii-2.3-qui-sedes_choral-score_-tenor.mp3",
+      "zelenka_missa_dei_filii-2.5-cum_sancto_spirito_choral-score_-alto.mp3",
+      "zelenka_missa_dei_filii-2.5-cum_sancto_spirito_choral-score_-bass.mp3",
+      "zelenka_missa_dei_filii-2.5-cum_sancto_spirito_choral-score_-soprano.mp3",
+      "zelenka_missa_dei_filii-2.5-cum_sancto_spirito_choral-score_-tenor.mp3"
+    ]
+  }
+]
