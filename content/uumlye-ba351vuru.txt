@@ -1,0 +1,27 @@
+# &Uuml;ye Ba&#351;vuru - &#304;stanbul Avrupa Korosu
+# source: uumlye-ba351vuru.html
+# media: 1384207143.png
+
+İstanbul Avrupa Korosu
+İAK'dan nasıl haberdar oldunuz?
+Arkadaş
+İnternet
+Basın
+Konser
+Diğer
+"Arkadaş" / "Diğer" seçeneği için lütfen bilgi veriniz.
+Nota bilginizin düzeyi nedir?
+Çok iyi
+İyi
+Fena Değil
+Az
+Yok
+Daha önce şan eğitimi aldıysanız ya da başka korolarda yer aldıysanız lütfen belirtiniz.
+Telefon
+E-posta
+Ad Soyad
+First
+Last
+Dosya Ekle
+Max file size: 20MB
+Gönder

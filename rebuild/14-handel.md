@@ -1,0 +1,107 @@
+# Handel
+
+**Parent:** Üye Girişi
+**Hidden from nav:** yes
+**SEO title:** Haendel
+**Source capture:** handel.txt
+**Word count:** 418
+
+## Text to paste
+
+İstanbul Avrupa Korosu
+Two notes for everybody:
+1) The ones who missed the rehearsal, I'd appreciate if you could prepare the relevant parts of Handel that we have read in that rehearsal.
+(For practice videos of parts, scroll down to the end of the e-mail).
+Until now we have read:
+Handel 4 (Surely he hath borne)
+Handel 7 (Hallelujah)
+Handel 8 (Since by man came death)
+Next week we'll read
+Handel 6 (Their sound is gone).
+Whoever wants to listen to the selections can use my
+SPOTIFY
+playlist, enjoy:
+https://open.spotify.com/user/burakerdem21/playlist/3CBVjYK1WFicuo2Lkz2SHz
+2) Our BAYRAM work is rather intellectual. I would like all of us to select one movement of 'Dvorak - Stabat Mater', listen to it and compare it to the relevant movement of 'Jenkins - Stabat Mater'. In what ways are they similar, what are the differences, what could the both composers have had in mind by composing the same text to music.
+You can think about it, you may also write some notes and even send to me if you would like to share them, and we'll discuss. Alternatively, we can talk a little bit in the rehearsal.
+Enjoy your Dvorak & Jenkins comparison!
+Links for practicing HANDEL:
+Handel 4 (Surely he hath borne)
+Soprano:
+https://www.youtube.com/watch?v=DRaFCBesSvc
+Alto:
+https://www.youtube.com/watch?v=UueJ9n-3XnM
+Tenor:
+https://www.youtube.com/watch?v=4mQ1pTc_k2k
+Bass:
+https://www.youtube.com/watch?v=Y_CjuGzGzbs
+Handel 7 (Hallelujah)
+Soprano:
+https://www.youtube.com/watch?v=0m9E8F398NU
+Alto:
+https://www.youtube.com/watch?v=fH7oFHmGhh4
+Tenor:
+https://www.youtube.com/watch?v=Gqb7FmMjReE
+Bass:
+https://www.youtube.com/watch?v=jYHUY46Z3Rc
+Handel 8 (Since by man came death)
+Soprano:
+https://www.youtube.com/watch?v=nUF9WY-TM0Q
+Alto:
+https://www.youtube.com/watch?v=h3ISRDsmJaw
+Tenor:
+https://www.youtube.com/watch?v=fPrOpXYL8zM
+Bass:
+https://www.youtube.com/watch?v=fLDEOopMth8
+Burak Onur Erdem
+Türkçe:
+Hepimiz için iki notum var
+Provayı kaçıran koristler, provada okuduğumuz Handel’le ilgili bölümleri hazırlayarak gelebilirseniz çok sevinirim.
+(bölümlerin çalışma videoları için e-postayı sonuna kadar aşağı çekin)
+Şimdiye kadar şunları okuduk:
+Handel 4 (surely he hath borne)
+Handel 7 (Hallelujah)
+Handel 8 (since by man came death)
+Önümüzdeki hafta
+Handel’in 6.
+Bölümünü okuyacağız
+(their sound is gone)
+İsteyen koristler benim seçtiğim
+Spotify
+playlist i zevkle dinleyebilirler:
+https://open.spotify.com/user/burakerdem21/playlist/3CBVjYK1WFicuo2Lkz2SHz
+Bayram ödevimiz biraz daha entelektüel. Hepimizin Dvorak-Stabat Mater’den bir bölüm seçip dinleyerek Jenkins-Stabat Mater’deki ilgili bölümle karşılaştırmasını istiyorum. Nerelerde benzeşiyor, nerelerde birbirlerinden değişik, bu iki bestecinin aynı metni bestelerken hissedip düşündükleri nelerdir…
+Bunu biraz düşünebilirsiniz, notlar alabilir ve dahası benimle paylaşmak isterseniz, bu notlarınızı bana gönderebilirsiniz ve böylelikle tartışabiliriz. Bir başka seçenek de provada bunlar üzerine biraz konuşabiliriz.
+Size keyifli Dvorak & Jenkins karşılaştırması dilerim!
+Handel çalışabilmek için linkler:
+Handel 4 (Surely he hath borne)
+Soprano:
+https://www.youtube.com/watch?v=DRaFCBesSvc
+Alto:
+https://www.youtube.com/watch?v=UueJ9n-3XnM
+Tenor:
+https://www.youtube.com/watch?v=4mQ1pTc_k2k
+Bass:
+https://www.youtube.com/watch?v=Y_CjuGzGzbs
+Handel 7 (Hallelujah)
+Soprano:
+https://www.youtube.com/watch?v=0m9E8F398NU
+Alto:
+https://www.youtube.com/watch?v=fH7oFHmGhh4
+Tenor:
+https://www.youtube.com/watch?v=Gqb7FmMjReE
+Bass:
+https://www.youtube.com/watch?v=jYHUY46Z3Rc
+Handel 8 (Since by man came death)
+Soprano:
+https://www.youtube.com/watch?v=nUF9WY-TM0Q
+Alto:
+https://www.youtube.com/watch?v=h3ISRDsmJaw
+Tenor:
+https://www.youtube.com/watch?v=fPrOpXYL8zM
+Bass:
+https://www.youtube.com/watch?v=fLDEOopMth8
+
+## Files to upload (1)
+
+- `1420322603.png` — 0.0 MB

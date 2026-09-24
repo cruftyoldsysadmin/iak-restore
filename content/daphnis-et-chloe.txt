@@ -1,0 +1,332 @@
+# Daphnis et Chloe
+# source: daphnis-et-chloe.html
+# media: 1420322603.png, daphnis_160-164_all_parts.mp3, daphnis_160-164_alto.mp3, daphnis_160-164_bass.mp3, daphnis_160-164_soprano.mp3, daphnis_160-164_tenor.mp3, daphnis_167-170_all_parts.mp3, daphnis_167-170_alto.mp3, daphnis_167-170_bass.mp3, daphnis_167-170_soprano.mp3, daphnis_167-170_tenor.mp3, daphnis_212-end_all_parts.mp3, daphnis_212-end_alto.mp3, daphnis_212-end_bass.mp3, daphnis_212-end_soprano.mp3, daphnis_212-end_tenor.mp3, daphnis_ia_all_parts.mp3, daphnis_ia_alto.mp3, daphnis_ia_bass.mp3, daphnis_ia_soprano.mp3, daphnis_ia_tenor.mp3, daphnis_ib_all_parts.mp3, daphnis_ib_all_parts_half_speed.mp3, daphnis_ib_bass.mp3, daphnis_ib_bass_half_speed.mp3, daphnis_ib_tenor.mp3, daphnis_ib_tenor_half_speed.mp3, daphnis_suit_1_tenor_2.midi, daphnis_suit_2_tenor_2.midi, daphnis_suite_1_-_tenor1.midi, ravel_daphnis.pdf, ravelsuit1_alto1.midi, ravelsuit1_alto2.midi, ravelsuit1_bas1.midi, ravelsuit1_bas2.midi, ravelsuit1_bas2.nwc, ravelsuit1_sop1.midi, ravelsuit1_sop1.nwc, ravelsuit1_sop2.midi, ravelsuit1_sop2.nwc, ravelsuit2_alto1.midi, ravelsuit2_alto1.nwc, ravelsuit2_alto2.midi, ravelsuit2_bas1.midi, ravelsuit2_bas1.nwc, ravelsuit2_bas2.midi, ravelsuit2_bas2.nwc, ravelsuit2_sop1.midi
+
+İstanbul Avrupa Korosu
+DAPHNIS ET CHLOE SUITE NO I midi
+Alto
+Soprano
+ravelsuit1_alto1.midi
+File Size:
+0 kb
+File Type:
+midi
+Download File
+ravelsuit1_sop1.midi
+File Size:
+0 kb
+File Type:
+midi
+Download File
+ravelsuit1_alto2.midi
+File Size:
+0 kb
+File Type:
+midi
+Download File
+ravelsuit1_sop2.midi
+File Size:
+0 kb
+File Type:
+midi
+Download File
+Bas
+ravelsuit1_bas1.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+ravelsuit1_bas2.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+Tenor
+daphnis_suite_1_-_tenor1.midi
+File Size:
+3 kb
+File Type:
+midi
+Download File
+daphnis_suit_1_tenor_2.midi
+File Size:
+4 kb
+File Type:
+midi
+Download File
+DAPHNIS ET CHLOE SUITE NO II midi
+Alto
+ravelsuit2_alto1.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+ravelsuit2_alto2.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+Soprano
+ravelsuit2_sop1.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+ravelsuit2_alto2.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+Bas
+ravelsuit2_bas1.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+ravelsuit2_bas2.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+Tenor
+daphnis_suit_2_tenor_2.midi
+File Size:
+4 kb
+File Type:
+midi
+Download File
+DAPHNIS ET CHLOE nwc
+Alto
+Soprano
+ravelsuit2_alto1.nwc
+File Size:
+1 kb
+File Type:
+nwc
+Download File
+ravelsuit1_sop1.nwc
+File Size:
+0 kb
+File Type:
+nwc
+Download File
+ravelsuit2_alto2.midi
+File Size:
+1 kb
+File Type:
+midi
+Download File
+ravelsuit1_sop2.nwc
+File Size:
+0 kb
+File Type:
+nwc
+Download File
+Bas
+ravelsuit1_bas2.nwc
+File Size:
+0 kb
+File Type:
+nwc
+Download File
+ravelsuit1_bas2.nwc
+File Size:
+0 kb
+File Type:
+nwc
+Download File
+ravelsuit2_bas1.nwc
+File Size:
+1 kb
+File Type:
+nwc
+Download File
+ravelsuit2_bas2.nwc
+File Size:
+1 kb
+File Type:
+nwc
+Download File
+DAPHNIS ET CHLOE SUITE NO I  mp3
+ALL PARTS
+daphnis_ia_all_parts.mp3
+File Size:
+2761 kb
+File Type:
+mp3
+Download File
+daphnis_ib_all_parts_half_speed.mp3
+File Size:
+701 kb
+File Type:
+mp3
+Download File
+daphnis_ib_all_parts.mp3
+File Size:
+351 kb
+File Type:
+mp3
+Download File
+ALTO
+daphnis_ia_alto.mp3
+File Size:
+2761 kb
+File Type:
+mp3
+Download File
+BASS
+SOPRANO
+daphnis_ia_bass.mp3
+File Size:
+2761 kb
+File Type:
+mp3
+Download File
+daphnis_ia_soprano.mp3
+File Size:
+2761 kb
+File Type:
+mp3
+Download File
+daphnis_ib_bass_half_speed.mp3
+File Size:
+701 kb
+File Type:
+mp3
+Download File
+daphnis_ib_bass.mp3
+File Size:
+351 kb
+File Type:
+mp3
+Download File
+TENOR
+NOTA / SCORES
+daphnis_ia_tenor.mp3
+File Size:
+2761 kb
+File Type:
+mp3
+Download File
+ravel_daphnis.pdf
+File Size:
+2133 kb
+File Type:
+pdf
+Download File
+daphnis_ib_tenor_half_speed.mp3
+File Size:
+701 kb
+File Type:
+mp3
+Download File
+daphnis_ib_tenor.mp3
+File Size:
+351 kb
+File Type:
+mp3
+Download File
+DAPHNIS ET CHLOE SUITE NO II mp3
+ALTO
+SOPRANO
+daphnis_160-164_alto.mp3
+File Size:
+893 kb
+File Type:
+mp3
+Download File
+daphnis_160-164_soprano.mp3
+File Size:
+893 kb
+File Type:
+mp3
+Download File
+daphnis_167-170_alto.mp3
+File Size:
+562 kb
+File Type:
+mp3
+Download File
+daphnis_167-170_soprano.mp3
+File Size:
+562 kb
+File Type:
+mp3
+Download File
+daphnis_212-end_alto.mp3
+File Size:
+1128 kb
+File Type:
+mp3
+Download File
+BASS
+daphnis_160-164_bass.mp3
+File Size:
+893 kb
+File Type:
+mp3
+Download File
+daphnis_167-170_bass.mp3
+File Size:
+562 kb
+File Type:
+mp3
+Download File
+daphnis_212-end_bass.mp3
+File Size:
+1128 kb
+File Type:
+mp3
+Download File
+daphnis_212-end_soprano.mp3
+File Size:
+1128 kb
+File Type:
+mp3
+Download File
+TENOR
+daphnis_160-164_tenor.mp3
+File Size:
+893 kb
+File Type:
+mp3
+Download File
+daphnis_167-170_tenor.mp3
+File Size:
+562 kb
+File Type:
+mp3
+Download File
+daphnis_212-end_tenor.mp3
+File Size:
+1128 kb
+File Type:
+mp3
+Download File
+ALL PARTS
+daphnis_160-164_all_parts.mp3
+File Size:
+893 kb
+File Type:
+mp3
+Download File
+daphnis_167-170_all_parts.mp3
+File Size:
+562 kb
+File Type:
+mp3
+Download File
+daphnis_212-end_all_parts.mp3
+File Size:
+1128 kb
+File Type:
+mp3
+Download File

@@ -1,0 +1,1127 @@
+{
+  "defined": [
+    {
+      "letter": "A",
+      "term": "A",
+      "def": "Harflerle adlandırılan müzik dizininde \"la\" notasına verilen addır."
+    },
+    {
+      "letter": "A",
+      "term": "A Capella",
+      "def": "Enstruman eşliği olmayan koro."
+    },
+    {
+      "letter": "A",
+      "term": "A Tempo",
+      "def": "İcrada tempo değişmesinden sonra, yeniden önceki tempoya dönüş."
+    },
+    {
+      "letter": "A",
+      "term": "Abridge",
+      "def": "Kısalt, özetle."
+    },
+    {
+      "letter": "A",
+      "term": "Accelerando",
+      "def": "“Hızlanarak” anlamına gelen İtalyanca bir notasyon işareti. Accel. olarak kısaltılır."
+    },
+    {
+      "letter": "A",
+      "term": "Adagio",
+      "def": "Yavaş tempo. Yavaş, rahat."
+    },
+    {
+      "letter": "A",
+      "term": "Akor",
+      "def": "Üç ya da daha fazla notanın aynı anda çalınmasıyla elde edilen ses."
+    },
+    {
+      "letter": "A",
+      "term": "Allegretto",
+      "def": "“Allegro”dan daha yavaş tempo. Biraz canlı ve hızlı."
+    },
+    {
+      "letter": "A",
+      "term": "Allegro",
+      "def": "Önceleri yalnız “mutlu” ve “sevinçli” anlamlarına gelirdi. Günümüzde hızlı tempoyu anlatmak için kullanılır. Canlı ve hızlı."
+    },
+    {
+      "letter": "A",
+      "term": "Allegro ma poco",
+      "def": "Canlı fakat çok değil."
+    },
+    {
+      "letter": "A",
+      "term": "Amabile",
+      "def": "Sevimli, okşayıcı."
+    },
+    {
+      "letter": "A",
+      "term": "Andante",
+      "def": "\"Yörük” anlamına gelir. Orta yavaşlıkta tempo. Yürüme hızında."
+    },
+    {
+      "letter": "A",
+      "term": "Andante Molto",
+      "def": "Daha canlı, daha çabuk."
+    },
+    {
+      "letter": "A",
+      "term": "Andantino",
+      "def": "“Andante”den daha hızlı. Yürüme hızından biraz daha hızlı."
+    },
+    {
+      "letter": "A",
+      "term": "Animato",
+      "def": "Canlı."
+    },
+    {
+      "letter": "A",
+      "term": "Anonymous",
+      "def": "Anonim. Yaratıcısı bilinmeyen."
+    },
+    {
+      "letter": "A",
+      "term": "Aralık",
+      "def": "Müzik notaları arasındaki mesafe."
+    },
+    {
+      "letter": "A",
+      "term": "Armoni",
+      "def": "Bir melodi çalarken, arka planda çalan belirli bir akor."
+    },
+    {
+      "letter": "A",
+      "term": "Articulate",
+      "def": "Heceleri ayırarak söylemek."
+    },
+    {
+      "letter": "A",
+      "term": "Articulation",
+      "def": "Artikülasyon. Berrak söyleme. Heceleme."
+    },
+    {
+      "letter": "A",
+      "term": "Assai",
+      "def": "Yeterli şekilde (örn. Allegro assai)"
+    },
+    {
+      "letter": "A",
+      "term": "Atonal",
+      "def": "Herhangi bir gamda olmayan müzik. Çoğu kişinin kulağına yabancı ve ahenksiz gelir."
+    },
+    {
+      "letter": "A",
+      "term": "Auftakt",
+      "def": "Eksik ölçü. İlk ölçünün eksik bir \"vuruşla başlaması, bu eksiklik parçanın veya bölümün sonunda\"mutlaka tamamlanır."
+    },
+    {
+      "letter": "B",
+      "term": "B",
+      "def": "Harflerle adlandırılan müzik dizininde \"Si\" notasına verilen ad. Almanlar daha sonra si bemol olarak da kullanmışlardır."
+    },
+    {
+      "letter": "B",
+      "term": "Bar",
+      "def": "Ölçü"
+    },
+    {
+      "letter": "B",
+      "term": "Bar line",
+      "def": "Ölçü çizgisi"
+    },
+    {
+      "letter": "B",
+      "term": "Baroque",
+      "def": "Müzik alanında barok çağı 1550 yıllarında başlamış, 1600'den sonra yayılmış, çağın öbür sanatlarındaki renk ve süsleme gösterişi, İtalyan madrigalinin kromatik armonisinde, Venedikli bestecilerin birden çok koro için yazdıkları yapıtlarda belirmiştir. 1700'lerin ortalarına kadar süren bir müzik tarihi dönemidir. Çok katı kurallar çerçevesinde yazılan duygusal süslü bir müziktir. Barok eğilimlerine uygun müzik yazmış besteciler arasında Gabrieli'ler, Schütz, Buxtehude, bir sınıra kadar Bach, Haendel, Rameau ve Lully gösterilebilir."
+    },
+    {
+      "letter": "B",
+      "term": "Beat",
+      "def": "Vuruş."
+    },
+    {
+      "letter": "B",
+      "term": "Bemol",
+      "def": "Önüne konulduğu notayı yarım ses kalınlaştıran işaret."
+    },
+    {
+      "letter": "B",
+      "term": "Bis",
+      "def": "Konserde halkın icracıdan ek parça çalmasını istemek için kullandığı kelime. Yerine \"encore\" kelimesi de kullanılır, \"yine\" anlamına gelir. Notada bis yazısı bir bölümün bir kere daha çalınacağını gösterir."
+    },
+    {
+      "letter": "B",
+      "term": "Brio",
+      "def": "Canlı, hevesli"
+    },
+    {
+      "letter": "C",
+      "term": "C",
+      "def": "1) Dört zamanlı ölçüyü gösterir. 2) Do notası. 3) Do majör akorunun kısaltması."
+    },
+    {
+      "letter": "C",
+      "term": "C clef",
+      "def": "Do anahtarı."
+    },
+    {
+      "letter": "C",
+      "term": "C flat",
+      "def": "Do bemol."
+    },
+    {
+      "letter": "C",
+      "term": "C sharp",
+      "def": "Do diyez."
+    },
+    {
+      "letter": "C",
+      "term": "Cadence",
+      "def": "Şarkı söyler gibi."
+    },
+    {
+      "letter": "C",
+      "term": "Canon",
+      "def": "Küçük veya büyük bir salonda veya kilisede seslendirilmek üzere çalgı eşliğinde tek ya da çok sesli bestelenmiş birden fazla bölümü bulunan genellikle dini yapıt."
+    },
+    {
+      "letter": "C",
+      "term": "Cantabile",
+      "def": "14. ila 16. yüzyıllarda İtalyan ve Fransız müziğinde ilk örneklerini gördüğümüz kanon. Müzikte çok seslilik baz alınarak yapılan parçalara \"kanon\" denmektedir. İki sesli kanonlarda 2 numara ile işaretlenmiş kısma 1. kişi ya da grup geldiğinde 2. kişi ya da grup parçaya en baştan başlar."
+    },
+    {
+      "letter": "C",
+      "term": "Cantata",
+      "def": "Geçici bir heves duygusu ile."
+    },
+    {
+      "letter": "C",
+      "term": "Cantique",
+      "def": "Kutlama şarkısı, Noel ilahisi."
+    },
+    {
+      "letter": "C",
+      "term": "Capriccioso",
+      "def": "Koro"
+    },
+    {
+      "letter": "C",
+      "term": "Carol",
+      "def": "Choir. Koro."
+    },
+    {
+      "letter": "C",
+      "term": "Choeur",
+      "def": "Koral, Koro ile ilgili."
+    },
+    {
+      "letter": "C",
+      "term": "Chor",
+      "def": "Akor. En az üç ayrı perdenin bir arada tınladığı ses kümesi."
+    },
+    {
+      "letter": "C",
+      "term": "Choral",
+      "def": "Koroda söyleyen. Korist."
+    },
+    {
+      "letter": "C",
+      "term": "Chord",
+      "def": "Koro (çalgılar için)."
+    },
+    {
+      "letter": "C",
+      "term": "Choriste / Chorister",
+      "def": "Koro."
+    },
+    {
+      "letter": "C",
+      "term": "Choro",
+      "def": "Kromatik. Yarım sesler sırasıyla."
+    },
+    {
+      "letter": "C",
+      "term": "Chorus",
+      "def": "Kromatik gam."
+    },
+    {
+      "letter": "C",
+      "term": "Chromatic - Choromatic",
+      "def": "Anahtar. Portenin başına konulan ve notaların adlandırılmasına yarayan işaretler."
+    },
+    {
+      "letter": "C",
+      "term": "Chromatic scale",
+      "def": "\"Kuyruk\" anlamına gelir. Bir bestenin sonuna konan bitiş bölümü."
+    },
+    {
+      "letter": "C",
+      "term": "Clef",
+      "def": "İle, birlikte."
+    },
+    {
+      "letter": "C",
+      "term": "Coda",
+      "def": "Kontrpuan. Çeşitli melodileri birbirine uydurma."
+    },
+    {
+      "letter": "C",
+      "term": "Con",
+      "def": "Kreşendo. Sesi git gide yükselterek. (Cresc.)"
+    },
+    {
+      "letter": "D",
+      "term": "D",
+      "def": "Re notası."
+    },
+    {
+      "letter": "D",
+      "term": "D. C. / Da capo",
+      "def": "Başa dön. Yeni baştan."
+    },
+    {
+      "letter": "D",
+      "term": "D flat",
+      "def": "Re bemol."
+    },
+    {
+      "letter": "D",
+      "term": "D sharp",
+      "def": "Re diyez."
+    },
+    {
+      "letter": "D",
+      "term": "Decrescendo / Decresc.",
+      "def": "Dekreşendo. Sesi gitgide azaltarak."
+    },
+    {
+      "letter": "D",
+      "term": "Diaposon",
+      "def": "Diyapozon. La sesini vererek çalgıların uyumlanmasına yarayan çatal biçiminde bir alet."
+    },
+    {
+      "letter": "D",
+      "term": "Diese - Diesis - Diyez",
+      "def": "Önüne konulduğu notayı yarım ses tizleştiren işaret."
+    },
+    {
+      "letter": "D",
+      "term": "Diminuendo - Dim.",
+      "def": "Dekreşendo. Sesi gitgide azaltarak."
+    },
+    {
+      "letter": "D",
+      "term": "Dissonant",
+      "def": "Sert, uyumsuz. Notaların kulağa yanlışmış gibi gelmesi."
+    },
+    {
+      "letter": "D",
+      "term": "Dolce",
+      "def": "Tatlı ve yumşak."
+    },
+    {
+      "letter": "D",
+      "term": "Doloroso",
+      "def": "Acıklı, yaslı bir değişle."
+    },
+    {
+      "letter": "D",
+      "term": "Dynamique - Dinamikler",
+      "def": "Ses yeğinliğini inceleyen, konu edinen kuram. Müzikal bir kompozisyonun ses yüksekliği, yumuşaklığı ya da nota kağıdında ses yüksekliğini gösteren işaretler."
+    },
+    {
+      "letter": "E",
+      "term": "E",
+      "def": "Mi notası."
+    },
+    {
+      "letter": "E",
+      "term": "E flat",
+      "def": "Mi bemol."
+    },
+    {
+      "letter": "E",
+      "term": "E Sharp",
+      "def": "Mi diyez."
+    },
+    {
+      "letter": "E",
+      "term": "Encore",
+      "def": "Bir daha. Yineleme isteği."
+    },
+    {
+      "letter": "E",
+      "term": "Entonation",
+      "def": "Entonasyon. Ses tutarlılığı."
+    },
+    {
+      "letter": "E",
+      "term": "Entracte",
+      "def": "Perde arası. Bölüm arası."
+    },
+    {
+      "letter": "E",
+      "term": "Entree - Entrata",
+      "def": "Giriş"
+    },
+    {
+      "letter": "E",
+      "term": "Epique",
+      "def": "Destan üslubunda"
+    },
+    {
+      "letter": "E",
+      "term": "Espressivo - Espres.",
+      "def": "İçten, dokunaklı bir şekilde."
+    },
+    {
+      "letter": "E",
+      "term": "Euterpe",
+      "def": "Müzik Tanrısı"
+    },
+    {
+      "letter": "F",
+      "term": "F",
+      "def": "1) Fa notası. 2) \"Forte\"nin kısaltması."
+    },
+    {
+      "letter": "F",
+      "term": "F clef",
+      "def": "Fa anahtarı."
+    },
+    {
+      "letter": "F",
+      "term": "F flat",
+      "def": "Fa bemol."
+    },
+    {
+      "letter": "F",
+      "term": "F sharp",
+      "def": "Fa diyez."
+    },
+    {
+      "letter": "F",
+      "term": "FF",
+      "def": "\"Fortissimo\"nun kısaltması"
+    },
+    {
+      "letter": "F",
+      "term": "FFF",
+      "def": "\"Fortississimo\"nun kısaltması"
+    },
+    {
+      "letter": "F",
+      "term": "Falsetto",
+      "def": "Erkek seslerinin normal alan dışında tiz, kadın senine benzer sesler çıkarmak amacıyla başvurdukları yöntem."
+    },
+    {
+      "letter": "F",
+      "term": "Fermata",
+      "def": "Son."
+    },
+    {
+      "letter": "F",
+      "term": "Fin - Fine",
+      "def": "Bitiriş."
+    },
+    {
+      "letter": "F",
+      "term": "Finale",
+      "def": "Bemol."
+    },
+    {
+      "letter": "F",
+      "term": "Flat",
+      "def": "Biçim."
+    },
+    {
+      "letter": "F",
+      "term": "Form",
+      "def": "Kuvvetli, güçlü şekilde."
+    },
+    {
+      "letter": "F",
+      "term": "Forte",
+      "def": "Kuvvetliden hafife düşüş."
+    },
+    {
+      "letter": "F",
+      "term": "Forte piano",
+      "def": "\"Forte\"den kuvvetli."
+    },
+    {
+      "letter": "F",
+      "term": "Fortissimo",
+      "def": "\"Fortissimo\"dan kuvvetli."
+    },
+    {
+      "letter": "F",
+      "term": "Fortississimo",
+      "def": "Kuvvetlendirerek."
+    },
+    {
+      "letter": "F",
+      "term": "Forzando",
+      "def": "Füg. Üç ya da daha fazla müzikal dize ya da ses için yazılmış bir kompozisyon. Her ses benzeri bir müzik söyler, ama farklı zamanlarda müziğe dahil olarak birbirleriyle kontrpuan oluştururlar."
+    },
+    {
+      "letter": "F",
+      "term": "Fugue",
+      "def": "Partisyon, yapıtın tüm notalarını içine alan nota kitabı"
+    },
+    {
+      "letter": "G",
+      "term": "G",
+      "def": "Sol notası."
+    },
+    {
+      "letter": "G",
+      "term": "G clef",
+      "def": "Sol anahtarı."
+    },
+    {
+      "letter": "G",
+      "term": "G flat",
+      "def": "Sol bemol."
+    },
+    {
+      "letter": "G",
+      "term": "G sharp",
+      "def": "Sol diyez."
+    },
+    {
+      "letter": "G",
+      "term": "Gam",
+      "def": "Dizi halinde çalınan yükselen ya da alçalan standartlaşmış bir seri nota."
+    },
+    {
+      "letter": "G",
+      "term": "Glissando (Gliss.)",
+      "def": "Kaydırarak. Kaydırma. Bir enstrumanı çalarken notalar arasında aşağı yukarı kaydırma tekniği."
+    },
+    {
+      "letter": "G",
+      "term": "Gloria",
+      "def": "Messe'nin ikinci bölümü. Yüceltmek."
+    },
+    {
+      "letter": "G",
+      "term": "Graditamente",
+      "def": "Tatlılıkla. Çok tatlı bir deyişle."
+    },
+    {
+      "letter": "G",
+      "term": "Graditissimo",
+      "def": "Tatlılıkla. Çok tatlı bir deyişle."
+    },
+    {
+      "letter": "G",
+      "term": "Grandioso",
+      "def": "Büyük, ihtişamlı, görkemli."
+    },
+    {
+      "letter": "G",
+      "term": "Grave",
+      "def": "Geniş, ağır bir deyişle."
+    },
+    {
+      "letter": "G",
+      "term": "G.p.",
+      "def": "Grosse Pause (bütün partilerin susması)"
+    },
+    {
+      "letter": "H",
+      "term": "H",
+      "def": "Si notası (Alman)"
+    },
+    {
+      "letter": "H",
+      "term": "Half note",
+      "def": "İkilik nota"
+    },
+    {
+      "letter": "H",
+      "term": "Hallelujah",
+      "def": "Dinsel törenlerde okunan Zebur ilahisi"
+    },
+    {
+      "letter": "H",
+      "term": "Harmonia",
+      "def": "Armoni, uyum."
+    },
+    {
+      "letter": "H",
+      "term": "Harmonic",
+      "def": "Armonik"
+    },
+    {
+      "letter": "H",
+      "term": "Head tone",
+      "def": "Baş sesi. Kafa sesi."
+    },
+    {
+      "letter": "H",
+      "term": "Hemi",
+      "def": "Yarım."
+    },
+    {
+      "letter": "H",
+      "term": "Heroic",
+      "def": "Kahramanca."
+    },
+    {
+      "letter": "H",
+      "term": "Homophony - homophonic",
+      "def": "Tek sesli."
+    },
+    {
+      "letter": "H",
+      "term": "Hymne",
+      "def": "İlahi, dinsel, kutsal."
+    },
+    {
+      "letter": "H",
+      "term": "Hymne national",
+      "def": "Ulusal marş."
+    },
+    {
+      "letter": "K",
+      "term": "Kanon",
+      "def": "bkz. Canon"
+    },
+    {
+      "letter": "K",
+      "term": "Kantat",
+      "def": "bkz. Cantata"
+    },
+    {
+      "letter": "K",
+      "term": "Konçerto",
+      "def": "bkz. Concerto"
+    },
+    {
+      "letter": "K",
+      "term": "Kadans",
+      "def": "bkz. Cadence"
+    },
+    {
+      "letter": "K",
+      "term": "Klasik",
+      "def": "bkz. Classic"
+    },
+    {
+      "letter": "K",
+      "term": "Kontrpuan",
+      "def": "bkz. Counterpoint. Çeşitli melodileri birbirine uydurma."
+    },
+    {
+      "letter": "K",
+      "term": "Kyrie eleison",
+      "def": "Katolik Messe'nin birinci bölümü."
+    },
+    {
+      "letter": "L",
+      "term": "Lacrimosa",
+      "def": "\"Requiem\"in acıklı bir bölümü."
+    },
+    {
+      "letter": "L",
+      "term": "Lagrimondo",
+      "def": "Ağlar gibi."
+    },
+    {
+      "letter": "L",
+      "term": "Lamento",
+      "def": "Yalvaran, acıklı bir deyişle."
+    },
+    {
+      "letter": "L",
+      "term": "Lamentoso",
+      "def": "Yalvaran, yakaran bir deyişle."
+    },
+    {
+      "letter": "L",
+      "term": "Largamente - Largamento",
+      "def": "Geniş geniş."
+    },
+    {
+      "letter": "L",
+      "term": "Largando",
+      "def": "Hem genişleterek hem de sesi kuvvetlendirerek."
+    },
+    {
+      "letter": "L",
+      "term": "Larghetto",
+      "def": "\"Largo\"dan az hızlıca."
+    },
+    {
+      "letter": "L",
+      "term": "Larghissimo",
+      "def": "\"Largo\"dan az ağırca."
+    },
+    {
+      "letter": "L",
+      "term": "Largo",
+      "def": "Geniş anlamında. Ağır, çok yavaş tempo."
+    },
+    {
+      "letter": "L",
+      "term": "Largo assai",
+      "def": "Çok geniş ve dolgun olarak."
+    },
+    {
+      "letter": "L",
+      "term": "Largo di molto",
+      "def": "Çok daha ağır."
+    },
+    {
+      "letter": "L",
+      "term": "Largo maestoso",
+      "def": "Ağır ve görkemli"
+    },
+    {
+      "letter": "L",
+      "term": "Largo un poco",
+      "def": "Biraz \"Largo\""
+    },
+    {
+      "letter": "L",
+      "term": "Larynx",
+      "def": "Hançere, gırtlak, sesin oluştuğu organ."
+    },
+    {
+      "letter": "L",
+      "term": "Legato",
+      "def": "Bağlı, bağlı bir şekilde."
+    },
+    {
+      "letter": "L",
+      "term": "Legatissimo",
+      "def": "Gayet bağlı olarak."
+    },
+    {
+      "letter": "L",
+      "term": "Lento",
+      "def": "Yavaş, yavaşça."
+    }
+  ],
+  "undefined": [
+    {
+      "letter": "A",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "B",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "C",
+      "term": "Concerto"
+    },
+    {
+      "letter": "C",
+      "term": "Counterpoint."
+    },
+    {
+      "letter": "C",
+      "term": "Crescendo"
+    },
+    {
+      "letter": "C",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "D",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "E",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "F",
+      "term": "Furioso"
+    },
+    {
+      "letter": "F",
+      "term": "Fullscore"
+    },
+    {
+      "letter": "F",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "G",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "H",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "K",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "L",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "M",
+      "term": "Ma"
+    },
+    {
+      "letter": "M",
+      "term": "Madrigal"
+    },
+    {
+      "letter": "M",
+      "term": "Maestoso"
+    },
+    {
+      "letter": "M",
+      "term": "Maestro"
+    },
+    {
+      "letter": "M",
+      "term": "Maggiore"
+    },
+    {
+      "letter": "M",
+      "term": "Magnificat"
+    },
+    {
+      "letter": "M",
+      "term": "Majeur - Major"
+    },
+    {
+      "letter": "M",
+      "term": "Major scale"
+    },
+    {
+      "letter": "M",
+      "term": "Manjando- Manjante"
+    },
+    {
+      "letter": "M",
+      "term": "Marcato"
+    },
+    {
+      "letter": "M",
+      "term": "March"
+    },
+    {
+      "letter": "M",
+      "term": "Menor - Mineur - Minor"
+    },
+    {
+      "letter": "M",
+      "term": "Menuet - Minuet"
+    },
+    {
+      "letter": "M",
+      "term": "Messa - Messe - Missa"
+    },
+    {
+      "letter": "M",
+      "term": "Mesure"
+    },
+    {
+      "letter": "M",
+      "term": "Metronome"
+    },
+    {
+      "letter": "M",
+      "term": "Mezza - Mezzo"
+    },
+    {
+      "letter": "M",
+      "term": "Mezzo forte"
+    },
+    {
+      "letter": "M",
+      "term": "Mezzo piano"
+    },
+    {
+      "letter": "M",
+      "term": "Misura"
+    },
+    {
+      "letter": "M",
+      "term": "Moderato"
+    },
+    {
+      "letter": "M",
+      "term": "Moderately"
+    },
+    {
+      "letter": "M",
+      "term": "Modulation"
+    },
+    {
+      "letter": "M",
+      "term": "Molto"
+    },
+    {
+      "letter": "M",
+      "term": "Mosso"
+    },
+    {
+      "letter": "M",
+      "term": "Motet - Motette"
+    },
+    {
+      "letter": "M",
+      "term": "Motive - Motif"
+    },
+    {
+      "letter": "M",
+      "term": "Mouvment"
+    },
+    {
+      "letter": "M",
+      "term": "<td class=\""
+    },
+    {
+      "letter": "O",
+      "term": "Octave - Oktav"
+    },
+    {
+      "letter": "O",
+      "term": "Opus"
+    },
+    {
+      "letter": "O",
+      "term": "Opera"
+    },
+    {
+      "letter": "O",
+      "term": "Oratorio"
+    },
+    {
+      "letter": "O",
+      "term": "Ölçü"
+    },
+    {
+      "letter": "O",
+      "term": "Offertoire"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Partition"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Pastoral"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Piano"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Pianissimo"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Piu"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Prestissimo"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Pianississimo"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Porte"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Prelude"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Presto"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Poco piu tranquillo"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Prozodi"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Quarter"
+    },
+    {
+      "letter": "P-Q",
+      "term": "Quartette"
+    },
+    {
+      "letter": "R",
+      "term": "Risoluto"
+    },
+    {
+      "letter": "R",
+      "term": "Rapsodi"
+    },
+    {
+      "letter": "R",
+      "term": "Romantic"
+    },
+    {
+      "letter": "R",
+      "term": "Renaissance"
+    },
+    {
+      "letter": "R",
+      "term": "Rubato"
+    },
+    {
+      "letter": "R",
+      "term": "Reprise"
+    },
+    {
+      "letter": "R",
+      "term": "Retardando"
+    },
+    {
+      "letter": "R",
+      "term": "Retardo"
+    },
+    {
+      "letter": "R",
+      "term": "Requiem"
+    },
+    {
+      "letter": "S",
+      "term": "Staccato"
+    },
+    {
+      "letter": "S",
+      "term": "Suite"
+    },
+    {
+      "letter": "S",
+      "term": "Stretto"
+    },
+    {
+      "letter": "S",
+      "term": "Sonata"
+    },
+    {
+      "letter": "S",
+      "term": "Senfoni"
+    },
+    {
+      "letter": "S",
+      "term": "Serenade"
+    },
+    {
+      "letter": "S",
+      "term": "Ses"
+    },
+    {
+      "letter": "S",
+      "term": "Sforzando"
+    },
+    {
+      "letter": "S",
+      "term": "Sforzato"
+    },
+    {
+      "letter": "S",
+      "term": "Solfege"
+    },
+    {
+      "letter": "S",
+      "term": "Semi"
+    },
+    {
+      "letter": "S",
+      "term": "Sharp"
+    },
+    {
+      "letter": "S",
+      "term": "Sacred"
+    },
+    {
+      "letter": "S",
+      "term": "Sotto voce"
+    },
+    {
+      "letter": "S",
+      "term": "Subito"
+    },
+    {
+      "letter": "S",
+      "term": "Syncopation"
+    },
+    {
+      "letter": "T",
+      "term": "Tonal"
+    },
+    {
+      "letter": "T",
+      "term": "Tanalite"
+    },
+    {
+      "letter": "T",
+      "term": "Trio"
+    },
+    {
+      "letter": "T",
+      "term": "Tempo"
+    },
+    {
+      "letter": "T",
+      "term": "Tranquillo"
+    },
+    {
+      "letter": "T",
+      "term": "Tema"
+    },
+    {
+      "letter": "T",
+      "term": "Tutti"
+    },
+    {
+      "letter": "T",
+      "term": "Transition"
+    },
+    {
+      "letter": "T",
+      "term": "Transpose"
+    },
+    {
+      "letter": "U-V",
+      "term": "Unison"
+    },
+    {
+      "letter": "U-V",
+      "term": "Vals - Valse"
+    },
+    {
+      "letter": "U-V",
+      "term": "Vibrato"
+    },
+    {
+      "letter": "U-V",
+      "term": "Vivace"
+    },
+    {
+      "letter": "U-V",
+      "term": "Volume"
+    },
+    {
+      "letter": "U-V",
+      "term": "Vuruş"
+    }
+  ]
+}
